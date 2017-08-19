@@ -46,8 +46,7 @@
         
 ##三：效果图
 
-
-       ![image](https://github.com/SmartAdapter/screenshots/src/main/java/screenshot.jpg)
+       ![image](https://github.com/xiaoleidontgo/SmartAdapter/raw/master/screenshots/src/main/java/screenshot.jpg)
        
         
 
