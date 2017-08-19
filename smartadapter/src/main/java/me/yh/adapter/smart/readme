@@ -1,0 +1,25 @@
+SmartAdapter 使用:
+
+    SmartAdapter =
+    SmartAdapterBuilder
+    .registerItemClass(bean1.Class,XX1ItemViewProvider())
+    .registerItemClass(bean2.Class,XX2ItemViewProvider())
+    .registerItemType(new ItemTypeProvider<XXBean>(){
+        @override
+        String itemType(XXBean bean){
+            return bean.type;
+        }
+        @override
+        onItemBind(XXBean bean){
+            //todo
+        }
+    })
+    .registerEmptyPage(xx.layout || view)
+    .registerHeader(xx.layout || view)
+    .registerFooter(xx.layout || view)
+    .create();
+
+
+
+
+
