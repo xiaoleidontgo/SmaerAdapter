@@ -49,7 +49,6 @@ public class SmartAdapter extends RecyclerView.Adapter<SViewHolder> {
                 mDatas.add(footer);
             }
         }
-
     }
 
     @Override
@@ -61,7 +60,7 @@ public class SmartAdapter extends RecyclerView.Adapter<SViewHolder> {
         IProvider itemProvider = getProviderByPosition(position);
 
         if (itemProvider == null) {
-            throw new NullPointerException("item of key:" + keyOfPosition(position) + ",provider is null ! is you register a null provider?");
+            throw new NullPointerException("item of key : " + keyOfPosition(position) + ",provider is null ! is you register a null provider?");
         }
 
         //条目LayoutID作为类型ID
