@@ -43,6 +43,10 @@
          `registerItem(XX.class, new XXProvider()) `<br>
     修改不同条目的逻辑也只需找到Item对应的Provider即可。<br>
         SmartAdapter不仅实现了以Class对应Provider的形式，还实现Class内不同的Type形式对应Provider的形式，且相互可共存使用<br>
+        
+##三：效果图
+
+       ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
        
         
 
