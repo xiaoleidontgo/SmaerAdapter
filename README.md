@@ -2,6 +2,7 @@
 一个Android下Recyclerview的适配器库，方便Recyclerview的多条目构建，简易，高效的维护多条目
 
 1,如何使用？
+
         List<Object> itemData = new ArrayList<>();
 
         TitleContent titleContent = new TitleContent();
