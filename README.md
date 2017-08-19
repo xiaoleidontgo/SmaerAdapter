@@ -2,8 +2,8 @@
 一个Android下Recyclerview的适配器库，方便Recyclerview的多条目构建，简易，高效的维护多条目
 
 ##一：如何使用？
-        <p>
-        SmartAdapterBuilder smartAdapterBuilder = new SmartAdapterBuilder();
+        ```
+        SmartAdapterBuilder smartAdapterBuilder = new SmartAdapterBuilder();
         SmartAdapter simpleAdapter =
                 smartAdapterBuilder
                         .registerHeader(R.layout.item_header_1)
@@ -36,7 +36,7 @@
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this);
         recyclerView.setLayoutManager(linearLayoutManager);
         recyclerView.setAdapter(simpleAdapter);
-        </p>
+        ```
         
 ##二：有何优势？
         
