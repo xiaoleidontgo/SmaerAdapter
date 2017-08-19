@@ -46,7 +46,7 @@
         
 ##三：效果图
 
-       ![image](https://github.com/xiaoleidontgo/SmartAdapter/raw/master/screenshots/src/main/java/screenshot.png)
+       ![image](https://github.com/xiaoleidontgo/SmartAdapter/raw/master//app/src/main/res/mipmap-xxhdpi/screenshot1.png)
        
         
 
