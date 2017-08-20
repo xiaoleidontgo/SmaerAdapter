@@ -1,5 +1,4 @@
 # SmartAdapter
-一个Android下Recyclerview的适配器库，方便Recyclerview的多条目构建，简易，高效的维护多条目
 
 ##一：如何使用？
 
