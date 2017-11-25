@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SmaerAdapterExample.iml" filepath="$PROJECT_DIR$/SmaerAdapterExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartAdapter.iml" filepath="$PROJECT_DIR$/SmartAdapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartadapter/smartadapter.iml" filepath="$PROJECT_DIR$/smartadapter/smartadapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/smartadapter/smartadapter.iml" filepath="$PROJECT_DIR$/smartadapter/smartadapter.iml" />
     </modules>
   </component>
