@@ -1,6 +1,6 @@
 # SmartAdapter
 
-##一：如何使用？
+## 如何使用？
 
        SmartAdapterBuilder smartAdapterBuilder = new SmartAdapterBuilder();
         SmartAdapter simpleAdapter =
@@ -34,7 +34,7 @@
                         .create();
         recyclerView.setAdapter(simpleAdapter);
         
-##二：有何优势？
+## 有何优势？
         
         在以前的项目当中，当一些复杂的页面需要多条目展示的时候，如何没有一个好的代码实现方式，往往会伴随着条目逻辑的分散。
     在以后想要添加条目或者更改条目逻辑的时候需要在大量的代码中定位那一条目类型。<br>
